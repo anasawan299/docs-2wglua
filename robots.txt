@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-sankvc.danatoto9sek.lat/sitemap.xml
